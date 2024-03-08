@@ -7,3 +7,18 @@ A static site is what it sounds like... static. No matter who is interacting wit
 ```bash:
 python server.py --dir public
 ```
+
+#### To run the main
+```bash:
+./main.sh
+```
+
+#### To run the tests
+```bash:
+./test.sh
+```
+
+#### If you are having a permission issue you can run:
+```bash:
+chmod +x file_name.sh
+```
